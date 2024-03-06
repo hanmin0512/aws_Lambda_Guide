@@ -1,4 +1,4 @@
-## aws_Lambda_Guid
+## aws_Lambda_Guide
 aws S3 lambda hand on tutorial 따라하기
 
 ## lambda_function code
